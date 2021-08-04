@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6109eb0e43819c7a1493a8c1"
+  },
+  "user_id": "50cbbd33-7cc3-40f6-afe4-a405acc50af9",
+  "first_name": "Satrio",
+  "last_name": "Utomo",
+  "phone_number": "085157699651",
+  "address": "Jl Pemurni Raya No 15, Jakarta Barat",
+  "pin": "$2b$12$e7MMwt0eyTfXl0ez6n6emu0DoyYeS5Lz.WM8INQ3H1.QDgfVdPn/K",
+  "balance": 80000000,
+  "created_date": {
+    "$date": "2021-08-04T08:19:10.205Z"
+  }
+},{
+  "_id": {
+    "$oid": "6109ec2943819c7a1493a8c2"
+  },
+  "user_id": "50cbbd33-7cc3-40f6-afe4-a405acc50af9",
+  "first_name": "John",
+  "last_name": "Doe",
+  "phone_number": "085157349651",
+  "address": "Jl Gua Maharani No 99, Surabaya",
+  "pin": "$2b$12$LEHxU11jamB/tUN8laDZp./mRe05stZiZeZSnMisSVgqXx5Mcwi3y",
+  "balance": 0,
+  "created_date": {
+    "$date": "2021-08-04T08:23:53.103Z"
+  }
+}]

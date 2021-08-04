@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6109ec9243819c7a1493a8c3"
+  },
+  "_cls": "TopUp",
+  "top_up_id": "6f1b3883-bae1-4cdf-9df1-4335b4adbc35",
+  "amount": 80000000,
+  "balance_before": 0,
+  "balance_after": 80000000,
+  "created_date": {
+    "$date": "2021-08-04T08:25:38.521Z"
+  },
+  "user": {
+    "$oid": "6109eb0e43819c7a1493a8c1"
+  }
+}]

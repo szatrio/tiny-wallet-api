@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6109ec9243819c7a1493a8c4"
+  },
+  "_cls": "Transaction",
+  "transaction_id": "d5b11af2-b9d9-4a66-a479-f84881866951",
+  "transaction_type": "credit",
+  "user": {
+    "$oid": "6109eb0e43819c7a1493a8c1"
+  },
+  "top_up": {
+    "$oid": "6109ec9243819c7a1493a8c3"
+  }
+},{
+  "_id": {
+    "$oid": "6109ecd743819c7a1493a8c6"
+  },
+  "_cls": "Transaction",
+  "transaction_id": "d5b11af2-b9d9-4a66-a479-f84881866951",
+  "transaction_type": "debit",
+  "user": {
+    "$oid": "6109eb0e43819c7a1493a8c1"
+  },
+  "payment": {
+    "$oid": "6109ecd743819c7a1493a8c5"
+  }
+},{
+  "_id": {
+    "$oid": "6109ed7a43819c7a1493a8c9"
+  },
+  "_cls": "Transaction",
+  "transaction_id": "d5b11af2-b9d9-4a66-a479-f84881866951",
+  "transaction_type": "debit",
+  "user": {
+    "$oid": "6109eb0e43819c7a1493a8c1"
+  },
+  "transfer": {
+    "$oid": "6109ed7a43819c7a1493a8c7"
+  }
+},{
+  "_id": {
+    "$oid": "6109ed7a43819c7a1493a8ca"
+  },
+  "_cls": "Transaction",
+  "transaction_id": "d5b11af2-b9d9-4a66-a479-f84881866951",
+  "transaction_type": "credit",
+  "user": {
+    "$oid": "6109eb0e43819c7a1493a8c1"
+  },
+  "transfer": {
+    "$oid": "6109ed7a43819c7a1493a8c8"
+  }
+}]

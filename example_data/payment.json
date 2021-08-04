@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6109ecd743819c7a1493a8c5"
+  },
+  "_cls": "Payment",
+  "payment_id": "c409e04d-af9e-4251-a975-7433c5d219f7",
+  "amount": 900000,
+  "remarks": "bayar sekolah",
+  "balance_before": 80000000,
+  "balance_after": 79100000,
+  "created_date": {
+    "$date": "2021-08-04T08:26:47.193Z"
+  },
+  "user": {
+    "$oid": "6109eb0e43819c7a1493a8c1"
+  }
+}]
